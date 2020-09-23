@@ -1,3 +1,5 @@
+//Prefix Sums lessons1
+/*Compute number of integers divisible by K in range [A,B]*/
 int solution(int A, int B, int K) {
     // write your code in C++14 (g++ 6.2.0)
     int lowMod;
